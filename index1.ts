@@ -1,5 +1,5 @@
 /* - Print a message like "Hey Abu Hurairah, I have started learning TYPESCRIPT."*/
-console.log("Hey Abu Hurairah, I have started learning TYPESCRIPT.");
+console.log("Hey Usman Saeed, I have started learning TYPESCRIPT.");
 
 /* - Store your name in a variable and print it.*/
 var nam: string = "Usman Saeed";
